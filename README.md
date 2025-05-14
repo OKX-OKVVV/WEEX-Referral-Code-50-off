@@ -13,7 +13,7 @@ Use WEEX referral code to get 50% discount on trading fees and new users can get
 
 ![Image](https://github.com/user-attachments/assets/31e92426-1094-4528-9bec-9d958aa9e3dc)
 
-**About WEEX**
+# **About WEEX**
 
 WEEX is a cryptocurrency exchange headquartered in Taipei City, Taiwan, serving over 5 million users in 160+ countries. It offers spot trading, futures with up to 200x leverage, copy trading, and access to 580+ crypto assets across 1,000+ trading pairs.
 
